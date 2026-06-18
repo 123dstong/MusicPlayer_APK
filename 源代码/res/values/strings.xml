@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicPro</string>
+    <string name="tab_local">本地</string>
+    <string name="tab_online">在线</string>
+    <string name="tab_radio">电台</string>
+    <string name="tab_mine">我的</string>
+    <string name="search_hint">搜索歌曲、歌手</string>
+    <string name="search_radio_hint">搜索电台</string>
+    <string name="no_songs">暂无歌曲</string>
+    <string name="no_results">无搜索结果</string>
+    <string name="loading">加载中...</string>
+    <string name="play_all">播放全部</string>
+    <string name="favorites">收藏</string>
+    <string name="cache管理">缓存管理</string>
+    <string name="play_history">播放历史</string>
+    <string name="about">关于</string>
+</resources>
